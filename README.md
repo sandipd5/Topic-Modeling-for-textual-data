@@ -59,5 +59,3 @@ This project downloads news articles using the `newsapi.org` API, cleans the new
 
 5. Open your browser and navigate to `http://localhost:5000` to interact with the word cloud.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
